@@ -1,0 +1,127 @@
+There's no single test to specifically diagnose polycystic ovary syndrome (PCOS). Your health care provider is likely to start with a discussion of your symptoms, medications and any other medical conditions. Your provider also may ask about your menstrual periods and any weight changes. A physical exam includes checking for signs of excess hair growth, insulin resistance and acne.
+
+Your health care provider might then recommend:
+
+Pelvic exam. During a pelvic exam, your provider can check your reproductive organs for masses, growths or other changes.
+Blood tests. Blood tests can measure hormone levels. This testing can exclude possible causes of menstrual problems or androgen excess that mimic PCOS. You might have other blood testing, such as fasting cholesterol and triglyceride levels. A glucose tolerance test can measure your body's response to sugar (glucose).
+Ultrasound. An ultrasound can check the appearance of your ovaries and the thickness of the lining of your uterus. A wandlike device (transducer) is placed in your vagina. The transducer emits sound waves that are translated into images on a computer screen.
+If you have a diagnosis of PCOS, your provider might recommend more tests for complications. These tests can include:
+
+Regular checks of blood pressure, glucose tolerance, and cholesterol and triglyceride levels
+Screening for depression and anxiety
+Screening for obstructive sleep apnea
+
+Treatment
+PCOS treatment focuses on managing the things that are concerning you. This could include infertility, hirsutism, acne or obesity. Specific treatment might involve lifestyle changes or medication.
+
+Lifestyle changes
+Your health care provider may recommend weight loss through a low-calorie diet combined with moderate exercise activities. Even a modest reduction in your weight — for example, losing 5% of your body weight — might improve your condition. Losing weight may increase the effectiveness of medications your provider recommends for PCOS, and it can help with infertility. Your health care provider and a registered dietitian can work with you to determine the best weight-loss plan.
+
+Medications
+To regulate your periods, your health care provider might recommend:
+
+Combination birth control pills. Pills that contain both estrogen and progestin decrease androgen production and regulate estrogen. Regulating your hormones can lower your risk of endometrial cancer and correct irregular bleeding, excess hair growth and acne.
+Progestin therapy. Taking progestin for 10 to 14 days every 1 to 2 months can regulate your periods and protect against endometrial cancer. This progestin therapy doesn't improve androgen levels and won't prevent pregnancy. The progestin-only minipill or progestin-containing intrauterine device is a better choice if you also wish to avoid pregnancy.
+To help you ovulate so that you can become pregnant, your health care provider might recommend:
+
+Clomiphene. This oral anti-estrogen medication is taken during the first part of your menstrual cycle.
+Letrozole (Femara). This breast cancer treatment can work to stimulate the ovaries.
+Metformin. This medicine for type 2 diabetes that you take by mouth improves insulin resistance and lowers insulin levels. If you don't become pregnant using clomiphene, your provider might recommend adding metformin to help you ovulate. If you have prediabetes, metformin can slow the progression to type 2 diabetes and help with weight loss.
+Gonadotropins. These hormone medications are given by injection.
+If needed, talk with your health care provider about procedures that may help you become pregnant. For example, in vitro fertilization may be an option.
+
+To reduce excessive hair growth or improve acne, your health care provider might recommend:
+
+Birth control pills. These pills decrease androgen production that can cause excessive hair growth and acne.
+Spironolactone (Aldactone). This medication blocks the effects of androgen on the skin, including excessive hair growth and acne. Spironolactone can cause birth defects, so effective birth control is needed while taking this medication. This medication isn't recommended if you're pregnant or planning to become pregnant.
+Eflornithine (Vaniqa). This cream can slow facial hair growth.
+Hair removal. Electrolysis and laser hair removal are two options for removing hair. Electrolysis uses a tiny needle inserted into each hair follicle. The needle sends out a pulse of electric current. The current damages and then destroys the follicle. Laser hair removal is a medical procedure that uses a concentrated beam of light to remove unwanted hair. You might need multiple treatments of electrolysis or laser hair removal. Shaving, plucking or using creams that dissolve unwanted hair may be other options. But these are temporary, and hair may thicken when it grows back.
+Acne treatments. Medications, including pills and topical creams or gels, may help improve acne. Talk to your health care provider about options.
+
+Diagnosis
+Diagnostic criteria
+Different criteria are used for diagnosing PCOS, but the (revised) Rotterdam criteria are recommended by clinical guidelines.[36][11] According to these criteria, an adult woman is diagnosed with PCOS if she meets two out of the following three:[36][11]
+
+Signs of androgen excess, either clinical (visible signs such as facial hair or acne) or biochemical (detected through a blood test). Androgens are "male" hormones like testosterone.[19]
+Irregular or absent menstrual cycles
+Polycystic ovaries on ultrasound or high levels of anti-Müllerian hormone (AMH)
+Other causes of these issues need to be excluded for diagnosis. In adolescents, both androgen excess and irregular or absent periods are required, as it is normal for adolescents to have many follicles ("cysts") visible in their ovaries, so it does not help with diagnosis.[37] Adolescents who only meet one criterion are considered 'at risk', and are to be reassessed when they are adults.[11]
+
+Older criteria are the 1990 NIH criteria and the 2006 Androgen Excess Society criteria.[5] The Androgen Excess criteria were never adopted widely. The old NIH criteria are stricter than the Rotterdam criteria, as both infrequent or irregular cycles and signs of androgen excess need to be present:[38]
+
+Infrequent or irregular cycles
+Signs of androgen excess (clinical or biochemical)
+Exclusion of other disorders that can result in the above
+Assessment and testing
+Steps to diagnose PCOS
+Steps to diagnose polycystic ovary syndrome in adults. In adolescents, only the first two steps are followed.
+There is a three-step algorithm to diagnose PCOS. Step one assesses signs of androgen excess and irregular menstrual cycles. If someone has both, and other causes are excluded, PCOS is diagnosed. In step two, those with only irregular cycles undergo a blood test for testosterone. If elevated, again excluding other causes of the symptoms, PCOS is diagnosed. For adolescents, step two is the final step. Step three applies to adults with either irregular cycles or androgen excess. An ultrasound or AMH test (but not both, to avoid overdiagnosis) is performed. If polycystic ovaries or elevated AMH levels are detected, PCOS is diagnosed.[39]
+
+Clinical androgen excess in adults can result in acne, hirsutism (male pattern of hair growth, such as on the chin or chest) and female pattern hair loss. Hirsutism can be assessed using the standardised Ferriman–Gallwey visual scoring system, with a score above four to six indicating clinical significance.[40] The recommended cut-off score depends on ethnicity, with a lower cut-off for Asian women, and a higher cut-off for Hispanic and Middle Eastern women.[41] Assessment may be complicated by self-treatment.[42] Hair loss can be assessed with the Ludwig visual score. In adolescents, androgen excess shows as severe acne and hirsutism.[40]
+
+For individuals who had their first menstrual cycle more than three years ago, menstrual cycles are considered irregular if they occur less than 21 days apart or more than 35 days apart. For those whose first menstrual cycle was between one and three years ago, the cycle is considered irregular if it is less than 21 days apart or more than 45 days apart. Finally, for anyone whose first cycle was over a year ago, a single cycle lasting over 90 days is considered irregular.[39]
+
+Biochemical androgen excess in PCOS is assessed using total and free testosterone. Accurate measurement requires tandem mass spectrometry assays, as direct free testosterone tests are not reliable. Interpretation is based on laboratory reference ranges. Hormonal contraception can interfere with hormone levels, so a withdrawal period of at least three months with alternative contraception may be needed. Severely elevated androgen levels may indicate other conditions.[39]
+
+Three ultrasound images at different locations in the ovary (different planes), and a reconstructed 3D image of ovarian follicles.
+Ultrasound image showing polycystic ovary morphology
+In adults, an ultrasound can be used to look for small ovarian follicles. In adolescents, this is not assessed, because larger numbers of follicles are normal at that age.[40] In PCOS, these follicles are often on the periphery of the ovary, forming a "string of pearls".[43] To count as polycystic ovaries, at least 20 follicles need to be present, smaller than 9 mm. This used to be 12 in older diagnostic criteria.[11] A less clear marker of PCOS is enlarged ovaries.[40] Ovaries need to be at least 10 cm3 to count as enlarged.[11] For sexually active individuals and those who consent, a transvaginal ultrasound approach is preferred.[40] If transvaginal ultrasound is unacceptable (for personal or cultural reasons), a transabdominal ultrasound can be performed.[44] Alternatively, AMH levels can be tested in the blood.[40]
+
+Differential diagnosis
+To diagnose PCOS, other conditions must first be ruled out. These include thyroid disease (assessed via thyroid stimulating hormone), hyperprolactinemia (assessed via prolactin), and non-classic congenital adrenal hyperplasia (tested via 17-hydroxy progesterone). For those without any periods whatsoever or more severe signs or symptoms, further tests are recommended to exclude hypogonadotropic hypogonadism, any androgen-producing tumors or Cushing's disease. Overt virilisation (development of male sex characteristics) is not characteristic of PCOS and indicates that another underlying condition may be responsible.[37]
+
+Management
+PCOS has no cure,[4] and management is focused on the relief of symptoms.[5] Treatment usually involves lifestyle changes such as diet and exercise of moderate intensity.[45] Metabolic issues can further be treated with metformin or GLP-1 receptor agonists. For women with a BMI over 35, bariatric surgery may be a further option.[11] Combined oral contraceptives are especially effective and used as the first line of treatment to reduce acne and hirsutism and regulate the menstrual cycle.[46] Other typical acne treatments and hair removal techniques may be used.[9] First-line treatment for fertility issues uses ovulation induction with clomiphene or letrozole.[5] As PCOS is associated with psychological disorders and cardiovascular risk, screening for both is recommended.[5]
+
+Lifestyle
+
+Brisk walking counts as exercise of moderate intensity.[47]
+Weight management and a healthy lifestyle are first-line treatments for PCOS. Weight management includes the prevention of weight gain, losing some weight or maintaining weight loss.[5] Limited weight loss of 5% shows metabolic benefits, and possibly benefits for reproductive health.[11] There is little evidence that one type of healthy diet is better than another in PCOS.[5] In terms of exercise, the general population guidance of 150 minutes of exercise of moderate intensity per week is recommended to prevent weight gain. For weight loss, 250 minutes of moderate exercise is recommended.[5]
+
+Lifestyle changes for people with PCOS have been proven to be difficult due to various factors. Some studies indicate that women with PCOS might have problems with feeling sated after eating, making weight loss more challenging. Sleep disorders, more prevalent in women with PCOS, cause fatigue which further makes a healthy lifestyle more difficult. Finally, issues with body image, eating disorders, depression or lack of intrinsic motivation (not enjoying exercise) may make lifestyle interventions more difficult.[48]
+
+Lifestyle interventions for women with PCOS may include strategies such as setting goals, tracking progress, learning assertiveness, and relapse prevention. These approaches aim to support weight control, a healthy lifestyle, and emotional wellbeing. Support may also involve using SMART goals (specific, measurable, achievable, realistic, and timely). Broader behavioural or cognitive behavioural programmes may help increase motivation, continued participation, and long-term healthy habits.[49]
+
+Medications
+Medications for PCOS include metformin and oral contraceptives. Metformin is a medication commonly used in type 2 diabetes mellitus, and is used frequently off-label in the management of PCOS.[11][50] It is recommended for those with a BMI over 25 to treat insulin resistance and normalise lipid profiles, and can also be considered for the treatment of irregular periods in adolescents and for those with a BMI under 25.[51] Metformin is associated with several side effects, including abdominal pain, metallic taste in the mouth, diarrhoea and vomiting.[52] It can also be used to help women get pregnant, but is not the most effective drug for it.[53]
+
+Combined oral contraceptives (COCs) can be used to reduce the symptoms of hirsutism and regulate menstrual periods.[54] They increase sex hormone binding globulin production, and reduce levels of androgens. A regular cycle reduces risks of endometrial cancer. Contraceptive pills with only progestogens can be used to improve menstrual regularity, but not for symptoms of androgen excess.[5] Anti-androgens such as finasteride and flutamide do not show advantages over COCs for treating hirsutism, but can be an option for people for whom COCs are contraindicated or who do not tolerate them.[55] It may take six to twelve months for COCs to be effective for hirsutism.[5] For the treatment of androgenic alopecia, a combination of anti-androgens and combined oral contraceptives can be tried,[56] but it is difficult to treat.[5]
+
+GLP-1 receptor agonists, such as liraglutide and semaglutide, may be more effective than metformin alone in terms of metabolic improvements. Their combination has stronger effects than either therapy alone. Small trials have found positive effects on menstrual regularity and androgen levels. These drugs are not recommended when trying to conceive.[11] There is some evidence inositol may have positive effects on metabolic issues in PCOS. However, metformin is recommended above inositol supplements for hirsutism and abdominal fat reduction.[57]
+
+Infertility
+It can be difficult to become pregnant with PCOS due to irregular ovulation. The first management step is to improve general health of the mother, such as through lifestyle interventions.[11] GLP-1 agonist for weight loss can be used, but should be stopped at least 2 months before conception. As of 2025, there is not enough data to know if they are safe in pregnancy.[58] Pregnancy in PCOS is more risky than normal, and treatment is focused on getting a single pregnancy, rather than, for instance, twins (multiple pregnancy).[11] With treatment, the eventual family size of women with PCOS does not seem different to those without.[5]
+
+The first-line medical treatment for infertility in women with PCOS is letrozole (Femara) to induce ovulation.[11] This is in general more effective than clomiphene citrate to improve both pregnancy rates and live births.[59] Other medications that can be used to treat infertility, listed from more to less effective, are metformin + clomiphene citrate, clomiphene citrate alone and metformin alone.[11] Women may be more likely to experience gastrointestinal side effects with metformin.[60] Gonadotrophin therapy may be effective too, but requires monitoring and increases the risks of multiple pregnancies.[61]
+
+When medication and lifestyle interventions are ineffective, infertility can be treated with a laparoscopic procedure called "ovarian drilling", which involves puncture of 4–10 small follicles with electrocautery, laser, or biopsy needles.[62] This procedure can induce ovulation, typically leads to a single pregnancy, but other risks may be higher compared to medication.[5][63] The procedure might lead to lower chance of live births compared to medication alone.[62] Ovarian wedge resection is no longer used as much due to complications such as adhesions and the presence of frequently effective medications.[64]
+
+As a final treatment option, in vitro fertilisation (IVF) can be considered. IVF does increase the risk of ovarian hyperstimulation syndrome.[65] Using a 'freeze all' strategy makes it easier to transfer a single embryo and provides time for the ovaries to recover from hyperstimulation.[11] A less effective alternative, but with much lower risks of ovarian hyperstimulation syndrome, is in vitro maturation instead of full IVF.[65] This option avoids high-dose gonadotropin therapy.[5]
+
+Hirsutism and acne
+Further information: Hirsutism
+
+Laser hair removal
+Management of hirsutism involves lowering androgen levels and removing existing hair, for example, by laser treatment or shaving.[5] A standard contraceptive pill is frequently effective in reducing hirsutism and acne.[64] Progestogens such as norgestrel and levonorgestrel should be avoided due to their androgenic effects.[64] Metformin combined with an oral contraceptive may be more effective than the oral contraceptive on its own.[66] Although oral contraceptives have shown significant efficacy in clinical trials (60–100% of individuals for treatment of hirsutism), severe acne or hirsutism might require additional treatment.[64]
+
+Other medications with anti-androgen effects include flutamide, and spironolactone, which can improve hirsutism.[67] Antiandrogens are sometimes used, such as finasteride, but they are contraindicated in pregnancy. Finasteride inhibits the conversion of testosterone to its stronger form dihydrotestosterone.[68]
+
+Mental health
+Women with PCOS are far more likely to have depression than women without PCOS. Symptoms of depression might be heightened by certain symptoms of the condition, such as hirsutism or obesity, that can lead to low self-esteem or poor body image.[27] Screening for depression and anxiety disorders is recommended using validated questionnaires, for instance at diagnosis as well as afterwards, based on clinical judgement.[69] For eating disorders and body image distress, screening is only recommended when clinically indicated.[11] For sexually active women who give permission to discuss it, psychosexual dysfunction can be assessed too.[70]
+
+Treatment of PCOS shows no to moderate effect on depression or anxiety, and standard therapies (such a psychotherapy and anti-depressants) are recommended instead.[11] Cognitive behaviour therapy can be used for girls and women with low self-esteem, poor body image, disordered eating or psychosexual dysfunction.[71]
+
+Screening for cardiometabolic issues
+Given the higher risk of cardiometabolic conditions, monitoring is recommended.[5] This includes testing of glucose tolerance, using a two-hour oral glucose tolerance test (GTT) in all women with PCOS. After initial testing at diagnosis, follow-up assessments are advised every one to three years, depending on the presence of diabetes risk factors.[72] Screening for cardiovascular risk factors includes lipid profile tests and yearly blood pressure measurements.[73]
+
+Epidemiology
+PCOS is the most common hormonal disorder (endocrine disorder) among women of reproductive age.[74] When someone is infertile due to lack of ovulation, PCOS is the most common cause.[7]
+
+According to the World Health Organization (WHO), PCOS affects over 6 to 13% of reproductive-aged women.[75] A 2022 review noted a prevalence between 5% and 18%.[5] The prevalence of PCOS depends on the choice of diagnostic criteria.[76] Using the Rotterdam criteria, around 10–13% of women have PCOS.[77] Based on the NIH criteria, the global prevalence was 5.5%, increasing to approximately 7.1% when using the Androgen Excess Society criteria. Irrespective of the criteria, the prevalence of PCOS is increasing, likely due to an aging population, more awareness, and increasing obesity rates.[76]
+
+Prevalence seems fairly even among people with different ethnicities, but is perhaps higher in people from South East Asia and the Eastern Mediterranean.[77] However, PCOS may express differently. For instance, in African and Hispanic American people with PCOS, there is more insulin resistance compared to other ethnic groups.[11] The same is true for South Asian people with PCOS, who also have more metabolic symptoms and higher BMIs. East Asian women typically have less hirsutism and lower BMI compared to other groups.[5] While early small-scale studies found that transmasculine individuals were more likely to have PCOS than cis women, this was not found in a larger, more rigorous study.[78]
+
+History
+Historical descriptions of possible PCOS symptoms date back to ancient Greece, where Hippocrates described women with "thick, oily skin and absence of menstruation."[79] The earliest known description of what is now recognized as PCOS dates from 1721 in Italy, which described "Young married peasant women, moderately obese and infertile, with two larger than normal ovaries, bumpy, shiny and whitish, just like pigeon eggs".[80] Polycystic ovaries were likely first formally described in 1844 by the French doctor Achille Chereau.[81]
+
+In 1935, American gynecologists Irving F. Stein and Michael L. Leventhal published a report linking polycystic ovaries to hirsutism, infertility and lack of periods. The report also hypothesised that PCOS results from endocrine dysfunction, initiating research into its hormonal causes and giving rise to the term Stein–Leventhal syndrome.[82][81] By the 1980s, the metabolic side of PCOS started to be studied, before the start of genetics research in the 1990s.[81]
