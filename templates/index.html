@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/Chatbot.css">
+    <title>PCOS Chatbot</title>
+</head>
+<body>
+
+    <div class="chat-container">
+        <div class="Header">
+            <h2>PCOS Awareness Chatbot</h2>
+            <p>This is an AI chatbot for educational purposes only. Do not take medical advice seriously.</p>
+        </div>
+
+        <div class="Message-body">
+            {% for chat in history %}
+                <div class="Ques-Card">{{ chat.question }}</div>
+                <div class="Ans-Card">{{ chat.answer }}</div>
+            {% endfor %}
+        </div>
+
+        <div class="Text-box">
+            <form method="POST" action="/">
+                <input type="text" name="question" placeholder="Type your message..." value="" required />
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>
